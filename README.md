@@ -13,4 +13,4 @@ Soy estudiante y pasante apasionado por transformar datos crudos en decisiones d
 * Desarrollé un Chatbot de Inventario para logística usando n8n.
 
 📫 **Contáctame:**
-[Enlace a tu LinkedIn] | [Enlace a tu correo]
+www.linkedin.com/in/mateo-barona-18638420b | mateobarona3102@gmail.com
