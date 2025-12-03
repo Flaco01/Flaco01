@@ -1,16 +1,16 @@
-## Hi there 👋
+### ¡Hola! Soy [Tu Nombre] 👋
+#### Analista de Datos & Especialista en Automatización 🚀
 
-<!--
-**Flaco01/Flaco01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y pasante apasionado por transformar datos crudos en decisiones de negocio y eliminar el trabajo manual repetitivo. Actualmente optimizando procesos logísticos en la industria automotriz.
 
-Here are some ideas to get you started:
+🛠 **Mi Stack Tecnológico:**
+* **Automatización:** n8n, Make, Python Scripts.
+* **Data & ETL:** SQL, Pentaho PDI, Apache Hop, Excel.
+* **Visualización:** Power BI (DAX & Data Modeling).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Hitos Recientes:**
+* Reduje en un **80%** el tiempo de carga de reportes críticos usando optimización SQL.
+* Desarrollé un Chatbot de Inventario para logística usando n8n.
+
+📫 **Contáctame:**
+[Enlace a tu LinkedIn] | [Enlace a tu correo]
